@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>04-Optionals</string>
+	<key>Pages</key>
+	<array>
+		<string>Sentinel Values.playgroundpage</string>
+		<string>Solving the Magic Value Problem with Enumerations.playgroundpage</string>
+		<string>A Tour of Optional Techniques.playgroundpage</string>
+		<string>A Tour of Optional Techniques - while let.playgroundpage</string>
+		<string>A Tour of Optional Techniques - 3.playgroundpage</string>
+		<string>A Tour of Optional Techniques - Doubly Nested Optionals.playgroundpage</string>
+		<string>A Tour of Optional Techniques - if var and while var.playgroundpage</string>
+		<string>A Tour of Optional Techniques - 6.playgroundpage</string>
+		<string>A Tour of Optional Techniques - Optional Chaining.playgroundpage</string>
+		<string>A Tour of Optional Techniques - The nil-Coalescing Operator.playgroundpage</string>
+		<string>A Tour of Optional Techniques - 9.playgroundpage</string>
+		<string>A Tour of Optional Techniques - Optional map.playgroundpage</string>
+		<string>A Tour of Optional Techniques - Optional flatMap.playgroundpage</string>
+		<string>A Tour of Optional Techniques - Filtering Out nils with flatMap.playgroundpage</string>
+		<string>A Tour of Optional Techniques - Equating Optionals.playgroundpage</string>
+		<string>A Tour of Optional Techniques - Equatable and ==.playgroundpage</string>
+		<string>A Tour of Optional Techniques - switch-case Matching for Optionals:.playgroundpage</string>
+		<string>A Tour of Optional Techniques - Comparing Optionals.playgroundpage</string>
+		<string>A Tour of Optional Techniques - 17.playgroundpage</string>
+		<string>A Tour of Optional Techniques - Asserting in Debug Builds.playgroundpage</string>
+		<string>Living Dangerously: Implicit Optionals.playgroundpage</string>
+		<string>Conclusion.playgroundpage</string>
+	</array>
+</dict>
+</plist>

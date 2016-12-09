@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>09-Generics</string>
+	<key>Pages</key>
+	<array>
+		<string>Generics .playgroundpage</string>
+		<string>Overloading.playgroundpage</string>
+		<string>Overloading - Overload Resolution for Operators.playgroundpage</string>
+		<string>Overloading - Overloading with Generic Constraints.playgroundpage</string>
+		<string>Overloading - 4.playgroundpage</string>
+		<string>Overloading - Parameterizing Behavior with Closures.playgroundpage</string>
+		<string>Operating Generically on Collections.playgroundpage</string>
+		<string>Operating Generically on Collections - Generic Binary Search.playgroundpage</string>
+		<string>Operating Generically on Collections - Shuffling Collections.playgroundpage</string>
+		<string>Operating Generically on Collections - 4.playgroundpage</string>
+		<string>Operating Generically on Collections - SubSequence and Generic Algorithms.playgroundpage</string>
+		<string>Operating Generically on Collections - Overrides and Optimizations.playgroundpage</string>
+		<string>Designing with Generics.playgroundpage</string>
+		<string>Designing with Generics - Extracting Common Functionality.playgroundpage</string>
+		<string>Designing with Generics - Creating a Generic Data Type.playgroundpage</string>
+		<string>How Generics Work.playgroundpage</string>
+		<string>How Generics Work - Generic Specialization.playgroundpage</string>
+		<string>How Generics Work - Whole Module Optimization.playgroundpage</string>
+		<string>Conclusion.playgroundpage</string>
+	</array>
+</dict>
+</plist>

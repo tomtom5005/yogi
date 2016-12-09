@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>08-Errors</string>
+	<key>Pages</key>
+	<array>
+		<string>Error Handling .playgroundpage</string>
+		<string>The Result Type.playgroundpage</string>
+		<string>Throwing and Catching.playgroundpage</string>
+		<string>Typed Errors.playgroundpage</string>
+		<string>Bridging Errors to Objective-C.playgroundpage</string>
+		<string>Errors and Function Parameters.playgroundpage</string>
+		<string>Errors and Function Parameters - Rethrows.playgroundpage</string>
+		<string>Cleaning Up Using defer.playgroundpage</string>
+		<string>Errors and Optionals.playgroundpage</string>
+		<string>Chaining Errors.playgroundpage</string>
+		<string>Chaining Errors - Chaining Result.playgroundpage</string>
+		<string>Higher-Order Functions and Errors.playgroundpage</string>
+		<string>Conclusion.playgroundpage</string>
+	</array>
+</dict>
+</plist>

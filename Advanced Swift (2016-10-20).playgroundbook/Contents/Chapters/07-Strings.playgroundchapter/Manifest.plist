@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>07-Strings</string>
+	<key>Pages</key>
+	<array>
+		<string>No More Fixed Width.playgroundpage</string>
+		<string>Strings and Collections.playgroundpage</string>
+		<string>Strings and Collections - Strings and Slicing.playgroundpage</string>
+		<string>A Simple Regular Expression Matcher.playgroundpage</string>
+		<string>ExpressibleByStringLiteral.playgroundpage</string>
+		<string>Internal Structure of String.playgroundpage</string>
+		<string>Code Unit Views.playgroundpage</string>
+		<string>CustomStringConvertible and CustomDebugStringConvertible.playgroundpage</string>
+		<string>Text Output Streams.playgroundpage</string>
+		<string>String Performance .playgroundpage</string>
+		<string>Outlook.playgroundpage</string>
+	</array>
+</dict>
+</plist>

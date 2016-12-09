@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>03-Collection-Protocols</string>
+	<key>Pages</key>
+	<array>
+		<string>Collection Protocols .playgroundpage</string>
+		<string>Sequences .playgroundpage</string>
+		<string>Sequences  - Iterators.playgroundpage</string>
+		<string>Sequences  - Conforming to Sequence.playgroundpage</string>
+		<string>Sequences  - Iterators and Value Semantics.playgroundpage</string>
+		<string>Sequences  - Function-Based Iterators and Sequences.playgroundpage</string>
+		<string>Sequences  - Infinite Sequences.playgroundpage</string>
+		<string>Sequences  - Unstable Sequences.playgroundpage</string>
+		<string>Sequences  - The Relationship Between Sequences and Iterators .playgroundpage</string>
+		<string>Sequences  - Subsequences.playgroundpage</string>
+		<string>Collections .playgroundpage</string>
+		<string>Collections  - Designing a Protocol for Queues.playgroundpage</string>
+		<string>Collections  - A Queue Implementation.playgroundpage</string>
+		<string>Conforming to Collection.playgroundpage</string>
+		<string>Conforming to Collection - Conforming to ExpressibleByArrayLiteral .playgroundpage</string>
+		<string>Conforming to Collection - Associated Types.playgroundpage</string>
+		<string>Indices.playgroundpage</string>
+		<string>Indices - Index Invalidation.playgroundpage</string>
+		<string>Indices - Advancing Indices.playgroundpage</string>
+		<string>Indices - A Linked List.playgroundpage</string>
+		<string>Indices - Stacks.playgroundpage</string>
+		<string>Indices - Conforming List to Sequence .playgroundpage</string>
+		<string>Indices - Conforming List to Collection.playgroundpage</string>
+		<string>Slices.playgroundpage</string>
+		<string>Slices - Implementing Custom Slicing .playgroundpage</string>
+		<string>Slices - Slices Share Indices with the Base Collection.playgroundpage</string>
+		<string>Slices - A Generic PrefixIterator.playgroundpage</string>
+		<string>Specialized Collections.playgroundpage</string>
+		<string>Specialized Collections - Forward-Only Traversal.playgroundpage</string>
+		<string>Specialized Collections - 3.playgroundpage</string>
+		<string>Specialized Collections - BidirectionalCollection.playgroundpage</string>
+		<string>Specialized Collections - RandomAccessCollection.playgroundpage</string>
+		<string>Specialized Collections - MutableCollection.playgroundpage</string>
+		<string>Specialized Collections - RangeReplaceableCollection.playgroundpage</string>
+		<string>Specialized Collections - Composing Capabilities.playgroundpage</string>
+		<string>Conclusion.playgroundpage</string>
+	</array>
+</dict>
+</plist>

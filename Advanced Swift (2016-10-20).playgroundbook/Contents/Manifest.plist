@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chapters</key>
+	<array>
+		<string>01-Introduction.playgroundchapter</string>
+		<string>02-Collections.playgroundchapter</string>
+		<string>03-Collection-Protocols.playgroundchapter</string>
+		<string>04-Optionals.playgroundchapter</string>
+		<string>05-Structs-and-Classes.playgroundchapter</string>
+		<string>06-Functions.playgroundchapter</string>
+		<string>07-Strings.playgroundchapter</string>
+		<string>08-Errors.playgroundchapter</string>
+		<string>09-Generics.playgroundchapter</string>
+		<string>10-Protocols.playgroundchapter</string>
+		<string>11-Interop.playgroundchapter</string>
+	</array>
+	<key>ContentIdentifier</key>
+	<string>io.objc</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>DeploymentTarget</key>
+	<string>ios10.0</string>
+	<key>ImageReference</key>
+	<string>playground-cover.jpg</string>
+	<key>Name</key>
+	<string>Advanced Swift</string>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>

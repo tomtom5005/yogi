@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>06-Functions</string>
+	<key>Pages</key>
+	<array>
+		<string>Functions .playgroundpage</string>
+		<string>Functions  - 2. Functions can capture variables that exist outside of their local scope..playgroundpage</string>
+		<string>Functions  - 3. Functions can be declared using the { } syntax for closure expressions..playgroundpage</string>
+		<string>Functions  - 4.playgroundpage</string>
+		<string>Flexibility through Functions .playgroundpage</string>
+		<string>Local Functions and Variable Capture.playgroundpage</string>
+		<string>Functions as Delegates.playgroundpage</string>
+		<string>Functions as Delegates - Delegates, Foundation-Style.playgroundpage</string>
+		<string>Functions as Delegates - Delegates That Work with Structs.playgroundpage</string>
+		<string>Functions as Delegates - Functions Instead of Delegates.playgroundpage</string>
+		<string>inout Parameters and Mutating Methods.playgroundpage</string>
+		<string>inout Parameters and Mutating Methods - Nested Functions and inout.playgroundpage</string>
+		<string>inout Parameters and Mutating Methods - When &amp; Doesn't Mean inout.playgroundpage</string>
+		<string>Properties and Subscripts.playgroundpage</string>
+		<string>Properties and Subscripts - 2.playgroundpage</string>
+		<string>Properties and Subscripts - Overloading Subscripts with Different Arguments.playgroundpage</string>
+		<string>Automatic Closures.playgroundpage</string>
+		<string>The @escaping Annotation.playgroundpage</string>
+		<string>Conclusion.playgroundpage</string>
+	</array>
+</dict>
+</plist>

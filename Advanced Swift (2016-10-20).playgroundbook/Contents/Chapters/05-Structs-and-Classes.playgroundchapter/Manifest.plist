@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>05-Structs-and-Classes</string>
+	<key>Pages</key>
+	<array>
+		<string>Structs and Classes .playgroundpage</string>
+		<string>Value Types.playgroundpage</string>
+		<string>Mutability.playgroundpage</string>
+		<string>Mutability - 2.playgroundpage</string>
+		<string>Mutability - 3.playgroundpage</string>
+		<string>Mutability - 4.playgroundpage</string>
+		<string>Structs .playgroundpage</string>
+		<string>Copy-On-Write.playgroundpage</string>
+		<string>Copy-On-Write - 2.playgroundpage</string>
+		<string>Copy-On-Write - 3.playgroundpage</string>
+		<string>Copy-On-Write - Copy-On-Write (The Expensive Way).playgroundpage</string>
+		<string>Copy-On-Write - Copy-On-Write (The Efficient Way).playgroundpage</string>
+		<string>Copy-On-Write - Copy-On-Write Gotchas.playgroundpage</string>
+		<string>Closures and Mutability.playgroundpage</string>
+		<string>Memory .playgroundpage</string>
+		<string>Memory  - Weak References.playgroundpage</string>
+		<string>Memory  - Unowned References.playgroundpage</string>
+		<string>Memory  - 4.playgroundpage</string>
+		<string>Memory  - Reference Cycles with Closures.playgroundpage</string>
+		<string>Memory  - Capture Lists.playgroundpage</string>
+		<string>Conclusion.playgroundpage</string>
+	</array>
+</dict>
+</plist>

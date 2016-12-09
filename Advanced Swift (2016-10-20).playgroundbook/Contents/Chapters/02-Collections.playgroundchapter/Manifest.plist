@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>02-Collections</string>
+	<key>Pages</key>
+	<array>
+		<string>Built-In Collections .playgroundpage</string>
+		<string>Arrays.playgroundpage</string>
+		<string>Arrays - Arrays and Optionals .playgroundpage</string>
+		<string>Arrays - Transforming Arrays.playgroundpage</string>
+		<string>Arrays - Parameterizing Behavior with Functions.playgroundpage</string>
+		<string>Arrays - Mutation and Stateful Closures.playgroundpage</string>
+		<string>Arrays - Filter.playgroundpage</string>
+		<string>Arrays - Reduce.playgroundpage</string>
+		<string>Arrays - A Flattening Map.playgroundpage</string>
+		<string>Arrays - Iteration using forEach.playgroundpage</string>
+		<string>Arrays - Array Types.playgroundpage</string>
+		<string>Dictionaries.playgroundpage</string>
+		<string>Dictionaries - Mutation.playgroundpage</string>
+		<string>Dictionaries - Some Useful Dictionary Extensions.playgroundpage</string>
+		<string>Dictionaries - Hashable Requirement.playgroundpage</string>
+		<string>Sets.playgroundpage</string>
+		<string>Sets - Set Algebra.playgroundpage</string>
+		<string>Sets - Index Sets and Character Sets.playgroundpage</string>
+		<string>Sets - Using Sets Inside Closures.playgroundpage</string>
+		<string>Ranges.playgroundpage</string>
+	</array>
+</dict>
+</plist>
